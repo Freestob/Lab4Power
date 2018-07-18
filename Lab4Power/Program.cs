@@ -13,13 +13,15 @@ namespace Lab4Power
             Console.WriteLine("Enter in a number.");
             
             int x = int.Parse(Console.ReadLine());
-           
-            
-            for (int i = 0; i < x; i++)
+            Console.WriteLine("{0,-10} {1,-10} {2,-10}", "Number", "Squared", "Cubed");
+
+
+
+            for (int i = 1; i < x; i++)
             {
-                int square = i * i;
+                int squared = i * i;
                 int cubed = i * i * i;
-                Console.WriteLine("{0} {1} {2}" , i, square, cubed);
+                Console.WriteLine("{0, -10} {1, -10} {2, -10}" , i, squared, cubed);
             }
             Console.ReadKey();
 
