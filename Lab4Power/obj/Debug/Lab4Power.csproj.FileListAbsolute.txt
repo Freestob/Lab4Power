@@ -1,0 +1,7 @@
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\bin\Debug\Lab4Power.exe.config
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\bin\Debug\Lab4Power.exe
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\bin\Debug\Lab4Power.pdb
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\obj\Debug\Lab4Power.csprojAssemblyReference.cache
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\obj\Debug\Lab4Power.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\obj\Debug\Lab4Power.exe
+C:\Users\frees\source\repos\Lab4Power\Lab4Power\obj\Debug\Lab4Power.pdb
