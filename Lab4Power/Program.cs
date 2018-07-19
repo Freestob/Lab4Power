@@ -22,7 +22,7 @@ namespace Lab4Power
 
 
 
-                for (int i = 1; i < x; i++)
+                for (int i = 1; i <= x; i++)
                 {
                     int squared = i * i;
                     int cubed = i * i * i;
